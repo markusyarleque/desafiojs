@@ -1,0 +1,10 @@
+ul {
+    display: flex;
+    flex-direction: column;
+}
+li{
+    list-style: none;
+    border: 2px solid salmon;
+    height: 150px;
+    margin: 5px 0;
+}
