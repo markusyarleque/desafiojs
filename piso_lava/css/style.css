@@ -1,0 +1,11 @@
+body {
+    background-color: #FFD580;
+}
+
+span {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2rem;
+    z-index: 100000000;
+    background-color: #ffffff;
+    padding: 5px;
+}
